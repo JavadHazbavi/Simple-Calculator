@@ -1,5 +1,10 @@
 # Simple-Calculator
 A clean calculator made with HTML, CSS, and JavaScript. It supports basic arithmetic, percent conversion, delete, clear, mouse input, and keyboard input.
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 ## 📸 Screenshot
 <img width="1920" height="878" alt="cal 1" src="https://github.com/user-attachments/assets/e68c2110-8ff9-4dca-acb7-b6af07d01f35" />
 
